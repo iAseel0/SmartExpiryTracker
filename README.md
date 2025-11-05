@@ -28,9 +28,10 @@ https://github.com/اسمك/SmartExpiryTracker/assets/XXXXXX/XXXXXXXX
 
 ## 📸 Screenshots
 
-<img src="assets/IMG_8190.PNG" width="250">
-<img src="assets/IMG_8191.PNG" width="250">
-<img src="assets/IMG_8192.PNG" width="250">
+| الرئيسية | إضافة منتج | قائمة المنتجات |
+|---------|-------------|----------------|
+| <img src="assets/IMG_8189.PNG" width="250"/> | <img src="assets/IMG_8190.PNG" width="250"/> | <img src="assets/IMG_8191.PNG" width="250"/> |
+
 
 ---
 
@@ -40,6 +41,11 @@ Developed by **Aseel**.
 ---
 
 ## ✅ Features
+
+---
+
+Made with ❤️ by Aseel
+
 - إضافة منتجات جديدة
 - تحديد تاريخ الانتهاء
 - عرض المنتجات حسب الأقرب انتهاءً
