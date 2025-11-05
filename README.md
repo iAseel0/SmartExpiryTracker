@@ -1,2 +1,49 @@
 # SmartExpiryTracker
-iOS application to track food expiry dates using SwiftUI.
+
+iOS application to track food expiry dates using **SwiftUI**.
+
+---
+
+## 🎯 About the App
+SmartExpiryTracker يساعد المستخدم على تدوين تاريخ انتهاء المنتجات الغذائية وتنبيههم قبل انتهاء الصلاحية لتقليل الهدر والحفاظ على الصحة.
+
+---
+
+## 🛠️ Tech & Tools
+| التقنية | الاستخدام |
+|-------|-----------|
+| SwiftUI | واجهة التطبيق |
+| MVVM | تنظيم الكود |
+| UserDefaults | حفظ بيانات المستخدم |
+| Xcode | بيئة التطوير |
+
+---
+
+## 🎥 Demo Video
+> اضغطي لعرض الفيديو:
+https://github.com/iAseel0/SmartExpiryTracker/assets/demo_video_link_here
+
+---
+
+## 📸 Screenshots
+
+<img src="assets/IMG_8190.PNG" width="250">
+<img src="assets/IMG_8191.PNG" width="250">
+<img src="assets/IMG_8192.PNG" width="250">
+
+---
+
+## 👩‍💻 Developer
+Developed by **Aseel**.
+
+---
+
+## ✅ Features
+- إضافة منتجات جديدة
+- تحديد تاريخ الانتهاء
+- عرض المنتجات حسب الأقرب انتهاءً
+- تنبيهات لتجنب انتهاء صلاحية الطعام
+
+---
+
+## 🧱 Project Structure
