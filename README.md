@@ -19,9 +19,10 @@ SmartExpiryTracker يساعد المستخدم على تدوين تاريخ ان
 
 ---
 
-## 🎥 Demo Video
-> اضغطي لعرض الفيديو:
-https://github.com/iAseel0/SmartExpiryTracker/assets/demo_video_link_here
+🎥 **Demo Video**
+
+https://github.com/اسمك/SmartExpiryTracker/assets/XXXXXX/XXXXXXXX
+
 
 ---
 
