@@ -42,9 +42,7 @@ Developed by **Aseel**.
 
 ## ✅ Features
 
----
 
-Made with ❤️ by Aseel
 
 - إضافة منتجات جديدة
 - تحديد تاريخ الانتهاء
@@ -53,4 +51,6 @@ Made with ❤️ by Aseel
 
 ---
 
-## 🧱 Project Structure
+---
+
+Made with ❤️ by Aseel
