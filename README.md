@@ -24,6 +24,7 @@ SmartExpiryTracker يساعد المستخدم على تدوين تاريخ ان
 https://github.com/اسمك/SmartExpiryTracker/assets/XXXXXX/XXXXXXXX
 
 
+
 ---
 
 ## 📸 Screenshots
@@ -31,6 +32,7 @@ https://github.com/اسمك/SmartExpiryTracker/assets/XXXXXX/XXXXXXXX
 | الرئيسية | إضافة منتج | قائمة المنتجات |
 |---------|-------------|----------------|
 | <img src="assets/IMG_8189.PNG" width="250"/> | <img src="assets/IMG_8190.PNG" width="250"/> | <img src="assets/IMG_8191.PNG" width="250"/> |
+
 
 
 ---
